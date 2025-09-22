@@ -16,4 +16,4 @@ var checkXMatrix = function(grid) {
         }
     }
      return true;   
-};
+}
